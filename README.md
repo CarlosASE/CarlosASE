@@ -11,7 +11,7 @@ Mi compromiso hacia el trabajo, basado en los valores inculcados, me ha llevado 
 - 👀 I’m interested in **desarrollo de software, seguridad informática, diseño web y desarrollo full-stack.**
 - 🌱 I’m currently learning **mejores prácticas en desarrollo y nuevas tecnologías.**
 - 💞️ I’m looking to collaborate on **proyectos que me permitan aplicar lo aprendido y seguir creciendo.**
-- 📫 How to reach me: **[carlossaldanacv.com](http://www.carlossaldanacv.com)**
+- 📫 How to reach me: **[carlossaldanacv.com](http://www.carlossaldañacv.com)**
 - ⚡ Fun fact: **¡Me apasiona resolver problemas y aprender cosas nuevas cada día!**
 
 <!---
