@@ -8,11 +8,11 @@ Durante mi desarrollo profesional, he tenido la oportunidad de utilizar diversas
 
 Mi compromiso hacia el trabajo, basado en los valores inculcados, me ha llevado a avanzar en mis objetivos personales y profesionales, permitiéndome desarrollarme de manera integral como profesional en mi campo.
 
-- 👀 I’m interested in **desarrollo de software, seguridad informática, diseño web y desarrollo full-stack.**
-- 🌱 I’m currently learning **mejores prácticas en desarrollo y nuevas tecnologías.**
-- 💞️ I’m looking to collaborate on **proyectos que me permitan aplicar lo aprendido y seguir creciendo.**
+- 👀 I’m interested in **software development, information security, web design, and full-stack development.**
+- 🌱 I’m currently learning **best practices in development and new technologies.**
+- 💞️ I’m looking to collaborate on **projects that allow me to apply what I've learned and continue growing.**
 - 📫 How to reach me: **[carlossaldanacv.com](http://www.carlossaldañacv.com)**
-- ⚡ Fun fact: **¡Me apasiona resolver problemas y aprender cosas nuevas cada día!**
+- ⚡ Fun fact: **I’m passionate about solving problems and learning new things every day!**
 
 <!---
 CarlosASE/CarlosASE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
