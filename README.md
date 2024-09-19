@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @CarlosASE
 
-¡Hola! Soy **Carlos A. Saldaña**, ingeniero en informática egresado del IPN de la Unidad Profesional Interdisciplinaria de Ingeniería y Ciencias Sociales Administrativas, especializado en el área de **Seguridad Informática**. Me encuentro en mi desarrollo profesional y he aprendido muchas herramientas y técnicas en mi carrera. Estoy en búsqueda de una empresa que me brinde la oportunidad de desarrollarme a nivel profesional.
+¡Hola! Soy **Carlos A. Saldaña**, ingeniero en informática egresado del IPN de la Unidad Profesional Interdisciplinaria de Ingeniería y Ciencias Sociales Administrativas, especializado en el área de **Seguridad Informática**. Me encuentro en mi desarrollo profesional y he aprendido muchas herramientas y técnicas en mi carrera.
 
 ## 🚀 Acerca de mí
 
